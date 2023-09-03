@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class lab1 {
 	public static void main(String[] args) throws IOException {
-		System.out.println("test");
+		System.out.println("test2");
 		// lab1();
 		// lab2_1();
 		// lab2_2();
